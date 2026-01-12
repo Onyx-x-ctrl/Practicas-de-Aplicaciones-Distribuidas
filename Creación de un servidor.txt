@@ -1,0 +1,31 @@
+Creación de un servidor: 
+1. Creación del dominio por medio de un servidor al que se pueden conectar.
+2. Realizar loggin para ingresar al dominio.
+	2.1 Crear credenciales para ese dominio (Cuenta FTP).
+
+Domain: sd2026
+
+Domain: sd2026.hugedata.systems
+
+User:
+sd2026
+
+Pwd:
+huU5v!XzUood(wvF
+
+
+FTP Username: sd2026@sd2026.hugedata.systems
+FTP server: ftp.hugedata.systems
+FTP & explicit FTPS port:  21
+
+----------------------------------------------------------------------------
+--- 2/9/25
+
+1. Sincronizar la carpeta donde tienen su pagina web que usaron para la prueba
+   con ftp usando GitHub desktop.
+
+   Crear una nueva rama partiendo de Master/main, nombrándola 1.0.1 y hacer 
+   un push para que aparezca la 1.0.1, corrección en código y luego se hace un 
+   commit. Finalmente se hace un merch a uno de los main y la versión. -> Deployment.
+
+
